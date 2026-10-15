@@ -1,4 +1,4 @@
-# ⚔️ Unity 3rd Person Combat System (Hoặc: Hệ thống AI FSM)
+# ⚔️ Unity 3rd Person Combat System
 
 > **Tóm tắt:** Dự án xây dựng hệ thống chiến đấu góc nhìn thứ ba kết hợp điều khiển trạng thái nhân vật trong Unity.
 
