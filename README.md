@@ -6,12 +6,12 @@
 ![Gameplay Controller](./Image/Controller.jpg)
 * 🔗 **Video Gameplay** [Dán link demo của bạn vào đây]
 
-## 🛠️ Công nghệ sử dụng (Tech Stack)
+## 🛠️ Công nghệ sử dụng
 * **Engine:** Unity `2022.3.x LTS`
 * **Ngôn ngữ:** C#
-* **Hệ thống & Thư viện:** Unity Input System, Cinemachine, Animator Controller, NavMesh
+* **Hệ thống & Thư viện:** Unity Input System,Animator Controller, NavMesh,FSM
 * **Quản lý phiên bản:** Git & GitHub (Git LFS)
 
-## 🚀 Hướng dẫn cài đặt & Chạy dự án (Setup Instructions)
+## 🚀 Hướng dẫn trò chơi
 Các nút ấn cho player
 ![Controller](./Image/Controller.jpg)
