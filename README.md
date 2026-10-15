@@ -11,7 +11,8 @@
 * **Hệ thống & Thư viện:** Unity Input System,Animator Controller, NavMesh,FSM
 * **Quản lý phiên bản:** Git & GitHub (Git LFS)
 * **🛠️Hình ảnh Công nghệ FSM
-
+* Player:
+  ![FSM](https://github.com/LETUan1245/course-unity-3rd-person-combat/blob/d0aeacc0f948d769321b26d6cf2437aa2ceded21/Image/Player/Animator.jpg)
 
 ## 🚀 Hướng dẫn trò chơi
 Các nút ấn cho player
