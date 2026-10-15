@@ -10,7 +10,7 @@
 * **Ngôn ngữ:** C#
 * **Hệ thống & Thư viện:** Unity Input System,Animator Controller, NavMesh,FSM
 * **Quản lý phiên bản:** Git & GitHub (Git LFS)
-🛠️Hình ảnh Công nghệ FSM
+* **🛠️Hình ảnh Công nghệ FSM
 
 
 ## 🚀 Hướng dẫn trò chơi
