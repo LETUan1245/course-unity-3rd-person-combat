@@ -3,7 +3,7 @@
 > **Tóm tắt:** Dự án xây dựng hệ thống chiến đấu góc nhìn thứ ba kết hợp điều khiển trạng thái nhân vật trong Unity.
 
 ## 📸 Hình ảnh & Demo thực tế
-* 🔗 **Video Gameplay** [Dán link demo của bạn vào đây]
+* 🔗 **Video Gameplay** [https://youtu.be/PpO8mFtgnKE]
 
 ## 🛠️ Công nghệ sử dụng
 * **Engine:** Unity `2022.3.x LTS`
