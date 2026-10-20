@@ -25,5 +25,5 @@
   
 ## 🚀 Hướng dẫn trò chơi
 * Vào thư mục Secens > Sandbox
-*Các nút ấn cho player
+* Các nút ấn cho player
 ![Controller](./Image/Controller.jpg)
